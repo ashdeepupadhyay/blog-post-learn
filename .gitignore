@@ -32,6 +32,16 @@ MANIFEST
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
+*.pyc
+*~
+/.vscode
+__pycache__
+myvenv
+py3.8_env
+db.sqlite3
+/static
+.DS_Store
+
 
 # Installer logs
 pip-log.txt
